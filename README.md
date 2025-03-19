@@ -1,6 +1,5 @@
-# ElectoTrack
+# ElectoTrack- Automated Elective Processing
 Tracks and manages elective allocations automatically
-# Automated Elective Processing
 
 ## 📌 About the Project
 
